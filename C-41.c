@@ -1,5 +1,6 @@
 /* Write a  program in cto print the following febonachis structure
 *
+*
 **
 ***
 *****
